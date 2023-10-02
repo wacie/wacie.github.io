@@ -1,0 +1,15 @@
+body {
+    background-color: #6CDAE7;
+}
+
+.container {
+    column-width: 200px;
+    column-gap: 20px;
+  }
+  
+  .tab {
+    background-color: rgb(255, 211, 0);
+    border: 2px solid rgb(255, 0, 0);
+    padding: 10px;
+    margin: 0 0 1em 0;
+  }
